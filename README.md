@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @the-Shashi7
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Web-Development and CP
+- 💞️ I’m looking to collaborate on poject related to developments
+- 📫 How to reach me "shashi.ic19@nsut.ac.in"
