@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Shashi Bhushan.
+- 👋 Hey, I’m Shashi Bhushan.
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning Web-Development and CP.
+- 🌱 I’m currently learning Web-Development and CP 
+- 📲 and working on HTML , CSS , JAVASCRIPT  ,NODE JS ,EXPRESS JS , MONGO DB , REACT JS AND C++ .
 - 💞️ I’m looking to collaborate on poject related to developments.
 - 📫 How to reach me "shashi.ic19@nsut.ac.in"
