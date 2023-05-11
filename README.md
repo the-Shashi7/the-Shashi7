@@ -10,8 +10,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=the-shashi7&label=Profile%20views&color=0e75b6&style=flat" alt="the-shashi7" /> </p>
 Hey there,   
 
-I'm Shashi Bhushan, a full-stack Web Developer, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about Anything Web Development Related.
-
+I'm Shashi Bhushan B.Tech final year(2019-23) student at NSUT(formerly NSIT) having 1+ year experience in  C++,DSA, Html5, CSS3, JavaScript, MongoDB, React.js,Node.js and Redux . I am constantly learning and keeping up-to-date with the latest technologies and trends in web development, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about Anything Web Development Related.
 <!-- Want to know more about me? [Check out my portfolio](https://www.Shashi.com) -->
 
 ## Current Stack
