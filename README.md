@@ -7,6 +7,9 @@
 <a href="https://leetcode.com/the_shashi7/" target="_blank" >
     <img src="https://img.shields.io/badge/-@the_shashi7-%231DA1F2.svg?style=for-the-badge&logo=LeetCode" alt="Leetcode" />
  </a>
+ <a href="https://drive.google.com/file/d/1q8Dlq3uNHSD-40o2Ti5BAidIBhpb7TzD/view?usp=sharing" target="_blank" >
+    <img src="https://img.shields.io/badge/-RESUME DOWNLOAD-%231DA1F2.svg?style=for-the-badge&logo=drive" alt="Leetcode" />
+ </a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=the-shashi7&label=Profile%20views&color=0e75b6&style=flat" alt="the-shashi7" /> </p>
 Hey there,   
 
