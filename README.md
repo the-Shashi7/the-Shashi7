@@ -1,18 +1,18 @@
-
-
+<h1 align="center" >SHASHI BHUSHAN</h1>
+<img src="https://d1h9h5g2pln59q.cloudfront.net/project_execution_b84b722cd4.png" width="100%" height="300" >
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashi-bhushan-4301a3208/">
+  <a href="https://www.linkedin.com/in/shashi-bhushan-4301a3208/" target="_blank" >
     <img src="https://img.shields.io/badge/Shashi_Bhushan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
-<a href="https://leetcode.com/the_shashi7/">
+<a href="https://leetcode.com/the_shashi7/" target="_blank" >
     <img src="https://img.shields.io/badge/-@the_shashi7-%231DA1F2.svg?style=for-the-badge&logo=LeetCode" alt="Leetcode" />
  </a>
-
-Hey there,
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=the-shashi7&label=Profile%20views&color=0e75b6&style=flat" alt="the-shashi7" /> </p>
+Hey there,   
 
 I'm Shashi Bhushan, a full-stack Web Developer, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about Anything Web Development Related.
 
-<!-- Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com) -->
+<!-- Want to know more about me? [Check out my portfolio](https://www.Shashi.com) -->
 
 ## Current Stack
 
@@ -26,11 +26,12 @@ I'm Shashi Bhushan, a full-stack Web Developer, Who is passionate about building
 
 ## Current Stats
 
-|   ![Abdul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabdul88&theme=rogue)
+|   ![Shashi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=the-Shashi7&theme=rogue)
 | :---: |
 
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabdul88&theme=city-lights) |
+| ![Shashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-Shashi7&show_icons=true&theme=city_lights) | ![Shashi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-Shashi7&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabdul88&theme=city_lights) |
-| :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-Shashi7&theme=city_lights) | <img src="https://github-profile-trophy.vercel.app/?username=the-shashi7" alt="the-shashi7" height="50%" width="100%" />|
+| :---: | :---: |
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" height="300" >
